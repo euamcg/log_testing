@@ -216,7 +216,7 @@ dependencies = [
 [[package]]
 name = "tracing-logfmt"
 version = "0.3.2"
-source = "git+https://github.com/euamcg/tracing-logfmt.git?branch=add_coloured_keys#22c264219cb855b8521e8bed3d812e5600aa042a"
+source = "git+https://github.com/euamcg/tracing-logfmt.git?branch=add_coloured_keys#37dc87038bb7bb9b6a9010e62ed4f7a8a0f89f11"
 dependencies = [
  "nu-ansi-term 0.43.0",
  "time",
